@@ -16,7 +16,7 @@ npm install
 open file `.env` and setting your database connection
 
 ## Setting Database
-You can restore database from `database/dump_db.sql` 
+You can restore database from `database/infokes_webexplorer_db.sql` 
 
 _______
 or can running migrations
